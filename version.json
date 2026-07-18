@@ -1,6 +1,6 @@
 {
-  "version": "14.0.0",
-  "downloadUrl": "",
-  "releaseNotes": "Initial release",
+  "version": "14.1.0",
+  "downloadUrl": "https://google.com",
+  "releaseNotes": "This is a test update notification",
   "isMandatory": false
 }
