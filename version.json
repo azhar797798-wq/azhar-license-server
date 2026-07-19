@@ -1,6 +1,6 @@
 {
   "version": "14.1.0",
-  "downloadUrl": "https://drive.google.com/uc?export=download&id=1qprpksdAwYD94jId0ijCo21sGaQXptpn",
+  "downloadUrl": "https://drive.google.com/uc?export=download&confirm=t&id=1qprpksdAwYD94jId0ijCo21sGaQXptpn",
   "releaseNotes": "Bug fixes: overpayment credit system, settings page fix, new inventory stats with Zakat calculation, invoice number reset, customer PDF download",
   "isMandatory": false
 }
