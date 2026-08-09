@@ -1,6 +1,6 @@
 {
-  "version": "14.3.0",
-  "downloadUrl": "https://github.com/azhar797798-wq/azhar-license-server/releases/download/v14.3.0/Azhar.Software.Setup.14.3.0.exe",
-  "releaseNotes": "Bug fixes and improvements",
+  "version": "14.4.0",
+  "downloadUrl": "https://github.com/azhar797798-wq/azhar-license-server/releases/download/v14.4.0/Azhar.Software.Setup.14.4.0.exe",
+  "releaseNotes": "Tools section added, profit fixes, customer invoice",
   "isMandatory": false
 }
